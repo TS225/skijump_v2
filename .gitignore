@@ -1,0 +1,61 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.class
+
+# C/C++ extensions
+*.so
+
+# C extensions
+*.capi
+*.cr
+*.clib
+*.pyd
+
+# C++ extensions
+*.cw
+
+# Application-specific
+*.egg-info/
+.installed.cfg
+*.egg
+.installed.cfg
+*.egg-info
+*.egg-cache
+.coverage
+*.pyc
+
+# Python bytecode
+__pycache__/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Pyc files
+*.py[cod]
+*.class
+
+# Local sqlite/database
+*.sqlite3
+*.db
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Project-specific build artifacts
+*.exe
+*.obj
+*.dist
+*.build
+highscores.json
