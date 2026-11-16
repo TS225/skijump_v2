@@ -1,5 +1,5 @@
 Ski jump
-
+-------------------------------------------------
 Game code license is 'Unlicense'. All libraries included or other files retain their licenses or rights. 
 Code is written mainly by Claude code, using Sonnet 5.5 model.
 
